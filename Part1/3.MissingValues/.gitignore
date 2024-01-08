@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+venv/
+*.pyc
+environment.yml
+requirements.txt
+.jupyter/
+*.csv
+*.zip
